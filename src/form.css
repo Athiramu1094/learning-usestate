@@ -1,0 +1,21 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding-top: 2rem;
+    border-bottom: 1px solid black;
+    padding-bottom: 2rem;
+}
+
+.form-container button{
+    background-color: green;
+    color: white;
+    padding: 0.5rem;
+    border: none;
+}
+
+.form-container input{
+    padding: 0.5rem;
+    outline: none;
+}
